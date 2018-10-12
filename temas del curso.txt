@@ -1,0 +1,65 @@
+https://www.getpostman.com/apps
+conexiones
+formularios
+Model driven form - validacion
+
+valid 
+invalid
+ pristine
+dirty: 
+touched: verifica que se hizo un focus
+untoched: no verifica un focu
+
+validar los errores o mostrar errores a los usuarios
+required 
+mintengh
+
+que es una directiva: es un atributo de una etiqueta html que dota de un comportamiento a un elemento del dom
+ej: ngit , ngfor , ngswitch , ngnonbintable
+como generar una directva:
+
+comunicacion entre componentes:
+con observables: es un patron de diseño, implementacion de programacion reactiva, se compone de un objeto un observable y un objeto
+
+observable: lo que queremos observar. ej colecciones, llamados http. etc
+observer: el actor que se dedic a observar
+subject: emisor de eventos, es capaz de crear flujos de eventos cunado el observable sufre cambios
+
+como se crean: con un servicio que contiene un decorador del tipo inyectable
+
+entre componentes
+
+que es un web service: 
+
+rest:
+
+sin estado: todas las llamadas seran identicas
+
+cache: el contenido de los serrvicios se puede cachear de tal forma que una vez realizada la primera peticiion 
+al sservicio el resto pueden apoyarse en la cache si fuera necesario
+
+get: recoge informacion de un recurso
+ post :  modifica 
+put
+ delete
+
+
+soap: se basa en xml 
+
+________________________________________comunicacion entre componentes
+
+
+Como se crea 
+
+
+_______________________ciclo de vida 
+ que es un hook: es una funcion ejecutada en un punto clave de la visa de un componente
+componentes o directivas pueden ejecutarlos
+-ngChanges
+- Oninit
+- DoCheck
+-contein: filtro
+splice: 5 filas por pagina
+
+
+
